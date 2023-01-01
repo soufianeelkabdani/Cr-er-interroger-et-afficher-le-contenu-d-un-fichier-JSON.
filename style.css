@@ -1,0 +1,43 @@
+body{
+background-image: url(photo.jpg);
+background-size: cover;
+width: 90rem;
+margin-left: 2rem;
+}
+h1{
+    text-align: center;
+    margin: 2rem;
+    color: white;
+}
+img{
+    max-width: 100px;
+    max-height: 160px;
+}
+.input-group{
+    margin-bottom: 2rem;
+    width: 80rem;
+    margin-left: 5rem;
+}
+.table{
+    text-align: center;
+    border: 5px solid white ;  
+}
+thead tr th{
+    padding: 5px 5px;
+    width: 11.3rem;
+    height: 1.3rem;
+    cursor: pointer;
+}
+.btn {
+    background-color: #8A220B ;
+    border: none;
+    color: white;
+}
+thead th  span.icon-arrow{
+    display: inline-block;
+    width: 1.3rem;
+    margin-left: 0.2rem;
+}
+thead th span.icon-arrow {
+    transform: rotate(180deg);
+}

@@ -1,0 +1,194 @@
+[
+    {
+      "Titre": "Avatar",
+      "Réalisateur": "James Cameron",
+      "Durée": "2h70 min",
+      "Annéedeproduction": " 02 july 2009",
+      "Poster": "images/avatar1.jpg",
+
+      "Festivals": ["- Berlin International Film 2022","<br>- Glasgow International Film 2022","<br>- Santa Barbara International 2020","<br>- Hong Kong International Film "],
+      "Acteurs": [
+        
+        {
+            "NomPrénom" :"Sam Worthington",
+            "Nationalité" : "Américain"
+        },
+        {
+            "NomPrénom" :"Sigourney Weaver",
+            "Nationalité" : "Américain"
+        },
+        {
+            "NomPrénom" :"Stephen Lang",
+            "Nationalité" : "Américain"
+        }
+      ]
+    },
+     {
+      "Titre": "Thor",
+      "Réalisateur": "Kenneth Branagh",
+      "Durée": "1h55min",
+      "Annéedeproduction": "27 avril 2011",
+      "Poster": "images/Thor.jpg",
+      "Festivals": ["- marrakech festival","<br>- american movie festival"],
+      "Acteurs": [
+        {
+            "NomPrénom" :"Chris Hemsworth",
+            "Nationalité" : "Américain"
+        },
+        {
+            "NomPrénom" :"Stephen Lang",
+            "Nationalité" : "Américain"
+        }
+      ]
+    },
+    {
+      "Titre": "Hyper Tension",
+      "Réalisateur": "Mark Neveldine et Brian Taylor",
+      "Durée": "1h23min",
+      "Annéedeproduction": "14 mars 2007",
+      "Poster": "images/Hypertension.jpg",
+      "Festivals": ["- London International 2019","<br>- american movie festival","<br>- Miami International 2022","<br>- Hong Kong International  2022"],
+      "Acteurs": [
+        {
+            "NomPrénom" :"Jason Statham",
+            "Nationalité" : "Américain"
+        },
+        {
+            "NomPrénom" :"Stephen Lang",
+            "Nationalité" : "Américain"
+        }
+      ]
+    },
+    {
+      "Titre": "HCowboys & Envahisseurs",
+      "Réalisateur": "Jon Favreau",
+      "Durée": "1h59min",
+      "Annéedeproduction": "24 août 2011",
+      "Poster": "images/HCowboys&Envahisseurs.jfif",
+      "Festivals": ["- Berlin International 2017","<br>- Glasgow International 2022","<br>- Santa Barbara International 2022","<br>- Hong Kong International 2022"],
+      "Acteurs": [
+        {
+            "NomPrénom" :"Daniel Craig",
+            "Nationalité" : "Américain"
+        },
+        {
+            "NomPrénom" :"Sigourney Weaver",
+            "Nationalité" : "Américain"
+        }
+       
+      ]
+    },
+    {
+      "Titre": "Ip Man : La Légende du grand maître",
+      "Réalisateur": "Wilson Yip",
+      "Durée": "1h46min",
+      "Annéedeproduction": "12 décembre 2008",
+      "Poster": "images/IpMan.jfif",
+      "Festivals": ["- California International Film Festival"],
+      "Acteurs": [
+        {
+            "NomPrénom" :"Donnie Yen",
+            "Nationalité" : "Américain"
+        },
+        {
+            "NomPrénom" :"Stephen Lang",
+            "Nationalité" : "Américain"
+        }
+      ]
+    },
+     {
+      "Titre": "Mission: Impossible III",
+      "Réalisateur": "J.J. Abrams",
+      "Durée": "2h06min",
+      "Annéedeproduction": "03 mai 2006",
+      "Poster": "images/missionimpossible.jpg",
+      "Festivals": ["- Berlin International ","<br>- Glasgow International","<br>- Santa Barbara International ","<br>- Hong Kong International"],
+      "Acteurs": [
+        {
+            "NomPrénom" :"Tom Cruise",
+            "Nationalité" : "Américain"
+        },
+        {
+            "NomPrénom" :"Stephen Lang",
+            "Nationalité" : "Américain"
+        }
+      ]
+    },
+     {
+      "Titre": "X-Men : Le Commencement",
+      "Réalisateur": "Matthew Vaughn",
+      "Durée": "2h12min",
+      "Annéedeproduction": "01 juin 2011",
+      "Poster": "images/men.jfif",
+      "Festivals": ["- Glasgow International Film Festival 2022","<br>- Santa Barbara International Film Festival 2022","<br>- Hong Kong International Film Festival 2022"],
+      "Acteurs": [
+        {
+            "NomPrénom" :"James McAvoy",
+            "Nationalité" : "Américain"
+        },
+        {
+            "NomPrénom" :"Stephen Lang",
+            "Nationalité" : "Américain"
+        }
+      ]
+    },
+     {
+      "Titre": "Hyper Tension 2",
+      "Réalisateur": "Mark Neveldine et Brian Taylor",
+      "Durée": "1h36min",
+      "Annéedeproduction": "21 octobre 2009",
+      "Poster": "images/Hypertension2.jfif",
+      "Festivals": ["-Glasgow International Film ","<br>- Santa Barbara International ","<br>- Hong Kong International "],
+      "Acteurs": [
+        {
+            "NomPrénom" :"ason Statham",
+            "Nationalité" : "Américain"
+        },
+        {
+            "NomPrénom" :"Stephen Lang",
+            "Nationalité" : "Américain"
+        }
+      ]
+    },
+     {
+      "Titre": "Le Transporteur",
+      "Réalisateur": "Louis Leterrier et Corey Yuen",
+      "Durée": "1h32min",
+      "Annéedeproduction": "23 octobre 2002",
+      "Poster": "images/transporteur.jfif",
+      "Festivals": ["- Berlin International ","<br>- Glasgow International 2022","<br>- Santa Barbara Film 2022","<br>- Hong Kong International 2022"],
+      "Acteurs": [
+        {
+            "NomPrénom" :"Jason Statham",
+            "Nationalité" : "Américain"
+        },
+        {
+            "NomPrénom" :"Stephen Lang",
+            "Nationalité" : "Américain"
+        }
+      ]
+    },
+     {
+      "Titre": "Avatar 2",
+      "Réalisateur": "James Cameron",
+      "Durée": "1h00min",
+      "Annéedeproduction": "02 july 2012",
+      "Poster": "images/avatar2.gif",
+      "Festivals": ["- Berlin International","<br>- Glasgow International","<br>- Santa Barbara International 2022","<br>- Hong Kong International 2022"],
+      "Acteurs": [
+        {
+            "NomPrénom" :"Sam Worthington",
+            "Nationalité" : "Américain"
+        },
+        {
+            "NomPrénom" :"Sigourney Weaver",
+            "Nationalité" : "Américain"
+        },
+        {
+            "NomPrénom" :"Stephen Lang",
+            "Nationalité" : "Américain"
+        }
+      ]
+    }
+  ]
+  
