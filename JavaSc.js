@@ -105,10 +105,10 @@ const dateHeader = document.querySelector("#date");
 let moviesSortedByDate = false;
 dateHeader.addEventListener("click", (e) => {
   if (!moviesSortedByDate) {
-    data.sort((a, b) => a.Annéedeproduction - b.Annéedeproduction);
+    arr.sort((a, b) => a.Annéedeproduction.localeCompare(b.Annéedeproduction));
     moviesSortedByDate = true;
   } else {
-    data.reverse();
+    arr.reverse();
   }
-  showData(data);
+  htmldata(arr);
 });
